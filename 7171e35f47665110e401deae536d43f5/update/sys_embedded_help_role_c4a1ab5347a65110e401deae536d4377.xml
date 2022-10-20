@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_808428_temporary.approver" name="x_808428_temporary.approver">08a1ab5347a65110e401deae536d4376</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-20 17:17:13</sys_created_on>
+        <sys_id>c4a1ab5347a65110e401deae536d4377</sys_id>
+        <sys_name>08a1ab5347a65110e401deae536d4376</sys_name>
+        <sys_package display_value="Temporary Worker Management" source="x_808428_temporary">7171e35f47665110e401deae536d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Temporary Worker Management">7171e35f47665110e401deae536d43f5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c4a1ab5347a65110e401deae536d4377</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
